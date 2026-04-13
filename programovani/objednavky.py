@@ -139,12 +139,17 @@ def sort_orders(orders):
 
 
 def print_orders(orders):
-    for order in orders:
+    for index, order in enumerate(orders, start=1):
+        total = order["celkem"]
+        if isinstance(total, float) and total.is_integer():
+            total_text = f"{int(total)}"
+        else:
+            total_text = f"{total:.2f}"
+
         print(
-            f"Objednávka {order['cislo_objednavky']} | zákazník: {order['zakaznik']} | "
-            f"celkem: {order['celkem']:.2f} | počet položek: {order['pocet_polozek']}"
+            f"{index}. Objednávka {order['cislo_objednavky']} – {order['zakaznik']} – "
+            f"Položek: {order['pocet_polozek']} – Celkem: {total_text} Kč"
         )
-        print()
 
 
 def resolve_input_path(file_name):
