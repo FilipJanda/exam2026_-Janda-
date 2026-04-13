@@ -1,0 +1,7 @@
+cislo_objednavky,zakaznik,zaplaceno,nazev_polozky,mnozstvi,cena_za_kus
+1001,Jan Novák,True,Myš,2,350
+1001,Jan Novák,True,Klávesnice,1,1200
+1002,Petra Svobodová,False,Monitor,1,4200
+1003,Karel Dvořák,True,USB disk,3,250
+1004,Anna Malá,True,Notebook,1,15000
+1004,Anna Malá,True,Myš,1,300

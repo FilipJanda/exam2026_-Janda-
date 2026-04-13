@@ -1,0 +1,24 @@
+cislo_objednavky,zakaznik,zaplaceno,nazev_polozky,mnozstvi,cena_za_kus
+2001,Jan Novák,True,Myš,2,350
+2002,Petra Svobodová,True,Monitor,1,4200
+2001,Jan Novák,True,Klávesnice,1,1200
+2003,Karel Dvořák,False,USB disk,3,250
+2004,Anna Malá,True,Notebook,1,15000
+2005,Lukáš Černý,True,,2,500
+2002,Petra Svobodová,True,Kabel,0,150
+2006,Eva Veselá,True,Sluchátka,1,-300
+2004,Anna Malá,True,Myš,1,300
+2007,Tomáš Bílý,True,Tablet,1,8000
+2005,Lukáš Černý,True,Klávesnice,1,1200
+2008,Marek Novotný,False,Monitor,1,4000
+2007,Tomáš Bílý,True,Obal,2,200
+2009,Jana Králová,True,Telefon,1,10000
+2009,Jana Králová,True,Nabíječka,1,0
+2010,Petr Horák,True,Myš,1,350
+2010,Petr Horák,True,Klávesnice,1,abc
+2011,Lucie Malá,True,Notebook,1,20000
+2011,Lucie Malá,True,Taška,1,800
+2012,David Svoboda,True,Monitor,1,5000
+2012,David Svoboda,True,Kabel,1,200
+2006,Eva Veselá,True,Myš,1,300
+2003,Karel Dvořák,False,Myš,1,300
