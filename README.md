@@ -1,1 +1,2 @@
-# exam2026_-Janda-
+# SIF 2026 - Závěrečná zkouška
+FIlip Janda 7.G
